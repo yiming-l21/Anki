@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/u=2172046975,3823125709&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
