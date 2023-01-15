@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images.qrc</file>
+        <file>image/tool.bmp</file>
+        <file>image/mark.bmp</file>
+        <file>image/blue.bmp</file>
+        <file>image/green.bmp</file>
+        <file>image/orange.bmp</file>
+        <file>image/pink.bmp</file>
+        <file>image/purple.bmp</file>
+        <file>image/red.bmp</file>
+    </qresource>
+</RCC>
